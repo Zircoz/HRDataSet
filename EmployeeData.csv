@@ -1,0 +1,312 @@
+Employee_Name,EmpID,MarriedID,MaritalStatusID,GenderID,State,Zip,DOB,Sex,MaritalDesc,HispanicLatino,RaceDesc
+"Adinolfi, Wilson  K",10026,0,0,1,MA,01960,07/10/83,M ,Single,No,White
+"Ait Sidi, Karthikeyan   ",10084,1,1,1,MA,02148,05/05/75,M ,Married,No,White
+"Akinkuolie, Sarah",10196,1,1,0,MA,01810,09/19/88,F,Married,No,White
+"Alagbe,Trina",10088,1,1,0,MA,01886,09/27/88,F,Married,No,White
+"Anderson, Carol ",10069,0,2,0,MA,02169,09/08/89,F,Divorced,No,White
+"Anderson, Linda  ",10002,0,0,0,MA,01844,05/22/77,F,Single,No,White
+"Andreola, Colby",10194,0,0,0,MA,02110,05/24/79,F,Single,No,White
+"Athwal, Sam",10062,0,4,1,MA,02199,02/18/83,M ,Widowed,No,White
+"Bachiochi, Linda",10114,0,0,0,MA,01902,02/11/70,F,Single,No,Black or African American
+"Bacong, Alejandro ",10250,0,2,1,MA,01886,01/07/88,M ,Divorced,No,White
+"Baczenski, Rachael  ",10252,1,1,0,MA,01902,01/12/74,F,Married,Yes,Black or African American
+"Barbara, Thomas",10242,1,1,1,MA,02062,02/21/74,M ,Married,Yes,Black or African American
+"Barbossa, Hector",10012,0,2,1,TX,78230,07/04/88,M ,Divorced,No,Black or African American
+"Barone, Francesco  A",10265,0,0,1,MA,01810,07/20/83,M ,Single,No,Two or more races
+"Barton, Nader",10066,0,2,1,MA,02747,07/15/77,M ,Divorced,No,White
+"Bates, Norman",10061,0,0,1,MA,02050,10/18/81,M ,Single,No,White
+"Beak, Kimberly  ",10023,1,1,0,MA,02145,04/17/66,F,Married,No,White
+"Beatrice, Courtney ",10055,0,0,0,MA,01915,10/27/70,F,Single,No,White
+"Becker, Renee",10245,0,0,0,MA,02026,04/04/86,F,Single,Yes,White
+"Becker, Scott",10277,0,0,1,MA,02452,04/06/79,M ,Single,No,Asian
+"Bernstein, Sean",10046,0,0,1,MA,02072,12/22/70,M ,Single,Yes,White
+"Biden, Lowan  M",10226,0,2,0,MA,02027,12/27/58,F,Divorced,No,Asian
+"Billis, Helen",10003,1,1,0,MA,02031,09/01/89,F,Married,No,White
+"Blount, Dianna",10294,0,0,0,MA,02171,09/21/90,F,Single,No,White
+"Bondwell, Betsy",10267,0,0,0,MA,02210,01/16/67,F,Single,No,White
+"Booth, Frank",10199,0,0,1,CT,06033,07/30/64,M ,Single,No,Black or African American
+"Boutwell, Bonalyn",10081,1,1,0,MA,02468,04/04/87,F,Married,No,Black or African American
+"Bozzi, Charles",10175,0,0,1,MA,01901,03/10/70,M ,Single,No,Asian
+"Brill, Donna",10177,1,1,0,MA,01701,08/24/90,F,Married,No,White
+"Brown, Mia",10238,1,1,0,MA,01450,11/24/87,F,Married,No,Black or African American
+"Buccheri, Joseph  ",10184,0,0,1,MA,01013,07/28/83,M ,Single,No,White
+"Bugali, Josephine ",10203,0,3,0,MA,02043,10/30/69,F,Separated,No,Black or African American
+"Bunbury, Jessica",10188,1,1,0,VA,21851,06/01/64,F,Married,No,Black or African American
+"Burke, Joelle",10107,0,0,0,MA,02148,03/02/80,F,Single,No,Black or African American
+"Burkett, Benjamin ",10181,1,1,1,MA,01890,08/19/77,M ,Married,No,White
+"Cady, Max ",10150,0,0,1,MA,02184,11/22/66,M ,Single,No,White
+"Candie, Calvin",10001,0,0,1,MA,02169,08/09/83,M ,Single,No,White
+"Carabbio, Judith",10085,0,0,0,MA,02132,04/05/87,F,Single,No,White
+"Carey, Michael  ",10115,0,0,1,MA,01701,02/02/83,M ,Single,No,Black or African American
+"Carr, Claudia  N",10082,0,0,0,MA,01886,06/06/86,F,Single,No,Black or African American
+"Carter, Michelle ",10040,0,0,0,VT,05664,05/15/63,F,Single,No,White
+"Chace, Beatrice ",10067,0,0,0,MA,02763,01/02/51,F,Single,No,White
+"Champaigne, Brian",10108,1,1,1,MA,02045,02/09/72,M ,Married,No,White
+"Chan, Lin",10210,0,0,0,MA,02170,02/12/79,F,Single,No,White
+"Chang, Donovan  E",10154,0,0,1,MA,01845,08/24/83,M ,Single,No,White
+"Chigurh, Anton",10200,0,0,1,TX,78207,06/11/70,M ,Single,No,Black or African American
+"Chivukula, Enola",10240,0,0,0,MA,01775,08/27/83,F,Single,No,White
+"Cierpiszewski, Caroline  ",10168,0,0,0,MA,02044,05/31/88,F,Single,No,Black or African American
+"Clayton, Rick",10220,0,0,1,MA,02170,09/05/85,M ,Single,No,White
+"Cloninger, Jennifer",10275,1,1,0,MA,01752,08/31/81,F,Married,No,White
+"Close, Phil",10269,1,1,1,MA,02169,11/25/78,M ,Married,No,White
+"Clukey, Elijian",10029,1,1,1,MA,02134,08/26/80,M ,Married,No,White
+"Cockel, James",10261,0,0,1,MA,02452,09/08/77,M ,Single,No,White
+"Cole, Spencer",10292,0,0,1,MA,01880,08/12/79,M ,Single,No,Black or African American
+"Corleone, Michael",10282,0,2,1,MA,01803,12/17/75,M ,Divorced,No,White
+"Corleone, Vito",10019,0,0,1,MA,02030,03/19/83,M ,Single,No,Black or African American
+"Cornett, Lisa ",10094,1,1,0,MA,02189,03/31/77,F,Married,Yes,White
+"Costello, Frank",10193,1,1,1,MA,01810,08/26/86,M ,Married,No,White
+"Crimmings,   Jean",10132,0,0,0,MA,01821,04/10/87,F,Single,No,White
+"Cross, Noah",10083,0,0,1,CT,06278,09/09/65,M ,Single,No,White
+"Daneault, Lynn",10099,0,0,0,VT,05473,04/19/90,F,Single,No,White
+"Daniele, Ann  ",10212,1,1,0,CT,06033,01/18/52,F,Married,No,White
+"Darson, Jene'ya ",10056,1,1,0,MA,02110,11/05/78,F,Married,No,White
+"Davis, Daniel",10143,0,0,1,MA,02458,09/14/79,M ,Single,No,Two or more races
+"Dee, Randy",10311,1,1,1,MA,02138,04/15/88,M ,Married,No,White
+"DeGweck,  James",10070,1,1,1,MA,01810,10/31/77,M ,Married,No,White
+"Del Bosque, Keyla",10155,0,0,0,MA,02176,07/05/79,F,Single,No,Black or African American
+"Delarge, Alex",10306,0,0,1,AL,36006,11/02/75,M ,Single,No,Two or more races
+"Demita, Carla",10100,0,3,0,MA,02343,02/25/51,F,Separated,No,Black or African American
+"Desimone, Carl ",10310,1,1,1,MA,02061,04/19/67,M ,Married,No,White
+"DeVito, Tommy",10197,0,0,1,MA,02045,09/04/83,M ,Single,No,White
+"Dickinson, Geoff ",10276,0,0,1,MA,02180,11/15/82,M ,Single,No,White
+"Dietrich, Jenna  ",10304,0,0,0,WA,98052,05/14/87,F,Single,Yes,White
+"DiNocco, Lily ",10284,1,1,0,MA,02351,12/02/78,F,Married,No,Black or African American
+"Dobrin, Denisa  S",10207,0,0,0,MA,02125,10/07/86,F,Single,Yes,White
+"Dolan, Linda",10133,1,1,0,MA,02119,07/18/88,F,Married,No,White
+"Dougall, Eric",10028,0,0,1,MA,01886,07/09/70,M ,Single,No,Black or African American
+"Driver, Elle",10006,0,0,0,CA,90007,11/08/88,F,Single,No,White
+"Dunn, Amy  ",10105,0,0,0,MA,01731,11/28/73,F,Single,No,White
+"Dunne, Amy",10211,1,1,0,MA,01749,09/23/73,F,Married,No,White
+"Eaton, Marianne",10064,1,1,0,MA,02343,09/05/91,F,Married,No,White
+"Engdahl, Jean",10247,0,0,1,MA,02026,05/31/74,M ,Single,No,White
+"England, Rex",10235,1,1,1,MA,02045,08/25/78,M ,Married,No,White
+"Erilus, Angela",10299,0,3,0,MA,02133,08/25/89,F,Separated,No,White
+"Estremera, Miguel",10280,0,0,1,MA,02129,09/02/83,M ,Single,No,White
+"Evensen, April",10296,0,0,0,MA,02458,05/06/89,F,Single,No,White
+"Exantus, Susan",10290,1,1,0,MA,01749,05/15/87,F,Married,No,Black or African American
+"Faller, Megan ",10263,1,1,0,MA,01824,09/22/78,F,Married,No,Black or African American
+"Fancett, Nicole",10136,0,0,0,MA,02324,09/27/87,F,Single,No,Black or African American
+"Ferguson, Susan",10189,1,1,0,MA,02176,04/14/55,F,Married,No,White
+"Fernandes, Nilson  ",10308,1,1,1,MA,02132,10/18/89,M ,Married,No,White
+"Fett, Boba",10309,0,0,1,MA,02138,06/18/87,M ,Single,No,White
+"Fidelia,  Libby",10049,1,1,0,MA,02155,03/16/81,F,Married,No,White
+"Fitzpatrick, Michael  J",10093,0,0,1,MA,02143,10/01/81,M ,Single,Yes,White
+"Foreman, Tanya",10163,1,1,0,MA,02170,11/08/83,F,Married,No,White
+"Forrest, Alex",10305,1,1,1,MA,02330,07/07/75,M ,Married,No,White
+"Foss, Jason",10015,0,0,1,MA,01460,07/05/80,M ,Single,No,Black or African American
+"Foster-Baker, Amy",10080,1,1,0,MA,02050,04/16/79,F,Married,no,White
+"Fraval, Maruk ",10258,0,0,1,CT,06050,08/28/63,M ,Single,No,Black or African American
+"Galia, Lisa",10273,0,0,0,CT,06040,07/06/68,F,Single,No,White
+"Garcia, Raul",10111,0,0,1,MA,01905,09/15/85,M ,Single,Yes,White
+"Gaul, Barbara",10257,0,0,0,MA,02121,12/02/83,F,Single,Yes,Black or African American
+"Gentry, Mildred",10159,1,1,0,MA,02145,10/01/90,F,Married,No,Black or African American
+"Gerke, Melisa",10122,0,2,0,MA,02330,05/15/70,F,Divorced,No,Black or African American
+"Gill, Whitney  ",10142,0,4,0,OH,43050,07/10/71,F,Widowed,No,Black or African American
+"Gilles, Alex",10283,1,1,1,MA,02062,08/09/74,M ,Married,No,Black or African American
+"Girifalco, Evelyn",10018,0,0,0,MA,02451,05/08/80,F,Single,Yes,Two or more races
+"Givens, Myriam",10255,0,0,0,IN,46204,09/22/89,F,Single,No,White
+"Goble, Taisha",10246,0,0,0,MA,02127,10/23/71,F,Single,No,White
+"Goeth, Amon",10228,1,1,1,MA,02135,11/24/89,M ,Married,Yes,White
+"Gold, Shenice  ",10243,0,0,0,MA,02451,06/18/92,F,Single,Yes,White
+"Gonzalez, Cayo",10031,0,2,1,MA,02108,09/29/69,M ,Divorced,No,Black or African American
+"Gonzalez, Juan",10300,1,1,1,MA,02128,10/12/64,M ,Married,No,Black or African American
+"Gonzalez, Maria",10101,0,3,0,MA,02472,04/16/81,F,Separated,Yes,White
+"Good, Susan",10237,1,1,0,MA,01886,05/25/86,F,Married,No,White
+"Gordon, David",10051,1,1,1,MA,02169,05/21/79,M ,Married,No,White
+"Gosciminski, Phylicia  ",10218,0,3,0,MA,01824,12/08/83,F,Separated,No,American Indian or Alaska Native
+"Goyal, Roxana",10256,1,1,0,MA,01864,10/09/74,F,Married,No,Asian
+"Gray, Elijiah  ",10098,0,2,1,MA,01752,07/11/81,M ,Divorced,No,White
+"Gross, Paula",10059,0,2,0,MA,02176,05/21/83,F,Divorced,No,White
+"Gruber, Hans",10234,1,1,1,MA,02134,06/30/89,M ,Married,No,Black or African American
+"Guilianno, Mike",10109,0,0,1,TN,37129,02/09/69,M ,Single,No,Two or more races
+"Handschiegl, Joanne",10125,1,1,0,MA,02127,03/23/77,F,Married,No,White
+"Hankard, Earnest",10074,0,0,1,MA,02155,08/10/88,M ,Single,Yes,White
+"Harrington, Christie ",10097,0,0,0,MA,02324,08/18/52,F,Single,No,White
+"Harrison, Kara",10007,1,1,0,MA,01886,05/02/74,F,Married,No,White
+"Heitzman, Anthony",10129,0,0,1,MA,02149,01/04/84,M ,Single,No,White
+"Hendrickson, Trina",10075,0,0,0,MA,02021,08/27/72,F,Single,No,White
+"Hitchcock, Alfred",10167,1,1,1,NH,03062,09/14/88,M ,Married,No,American Indian or Alaska Native
+"Homberger, Adrienne  J",10195,1,1,0,MA,02445,02/16/84,F,Married,No,White
+"Horton, Jayne",10112,0,0,0,MA,02493,02/21/84,F,Single,No,White
+"Houlihan, Debra",10272,1,1,0,RI,02908,03/17/66,F,Married,No,White
+"Howard, Estelle",10182,1,1,0,MA,02170,09/16/85,F,Married,No,Black or African American
+"Hudson, Jane",10248,0,0,0,MA,02176,06/10/86,F,Single,No,White
+"Hunts, Julissa",10201,0,0,0,MA,02021,03/11/84,F,Single,No,White
+"Hutter, Rosalie",10214,0,3,0,MA,02351,05/07/92,F,Separated,No,White
+"Huynh, Ming",10160,0,2,0,MA,01742,09/22/76,F,Divorced,No,White
+"Immediato, Walter",10289,1,1,1,MA,02128,11/15/76,M ,Married,No,Asian
+"Ivey, Rose ",10139,0,0,0,MA,01775,01/28/91,F,Single,No,White
+"Jackson, Maryellen",10227,0,0,0,MA,02081,09/11/72,F,Single,No,Black or African American
+"Jacobi, Hannah  ",10236,0,2,0,MA,01778,03/22/66,F,Divorced,No,White
+"Jeannite, Tayana",10009,0,2,0,MA,01821,11/06/86,F,Divorced,No,American Indian or Alaska Native
+"Jhaveri, Sneha  ",10060,0,3,0,MA,02109,04/13/64,F,Separated,No,White
+"Johnson, George",10034,1,1,1,MA,02445,08/19/59,M ,Married,No,White
+"Johnson, Noelle ",10156,1,1,0,MA,02301,11/07/86,F,Married,No,Asian
+"Johnston, Yen",10036,0,0,0,MA,02128,09/08/69,F,Single,No,White
+"Jung, Judy  ",10138,1,1,0,MA,02446,04/17/86,F,Married,No,Black or African American
+"Kampew, Donysha",10244,0,0,0,PA,19444,11/11/89,F,Single,No,White
+"Keatts, Kramer ",10192,0,0,1,MA,01887,01/19/76,M ,Single,No,White
+"Khemmich, Bartholemew",10231,0,0,1,CO,80820,11/27/79,M ,Single,No,White
+"King, Janet",10089,1,1,0,MA,01902,09/21/54,F,Married,Yes,White
+"Kinsella, Kathleen  ",10166,1,1,0,MA,02170,12/08/73,F,Married,No,White
+"Kirill, Alexandra  ",10170,1,1,0,MA,02127,10/08/70,F,Married,No,White
+"Knapp, Bradley  J",10208,0,0,1,MA,01721,11/10/77,M ,Single,No,Black or African American
+"Kretschmer, John",10176,1,1,1,MA,01801,02/02/80,M ,Married,No,Asian
+"Kreuger, Freddy",10165,0,0,1,NY,10171,02/24/69,M ,Single,Yes,Black or African American
+"Lajiri,  Jyoti",10113,1,1,1,MA,02169,04/23/86,M ,Married,No,White
+"Landa, Hans",10092,1,1,1,MA,01890,07/01/72,M ,Married,No,White
+"Langford, Lindsey",10106,0,2,0,MA,02090,07/25/79,F,Divorced,No,Asian
+"Langton, Enrico",10052,1,1,1,MA,02048,12/09/86,M ,Married,No,White
+"LaRotonda, William  ",10038,0,2,1,MA,01460,04/26/84,M ,Divorced,No,Black or African American
+"Latif, Mohammed",10249,1,1,1,MA,02126,05/09/84,M ,Married,No,White
+"Le, Binh",10232,0,0,0,MA,01886,06/14/87,F,Single,No,Asian
+"Leach, Dallas",10087,0,0,0,MA,01810,01/17/79,F,Single,No,Asian
+"LeBlanc, Brandon  R",10134,1,1,1,MA,01460,06/10/84,M ,Married,No,White
+"Lecter, Hannibal",10251,1,1,1,MA,01776,09/02/82,M ,Married,No,Asian
+"Leruth, Giovanni",10103,0,3,1,UT,84111,12/27/88,M ,Separated,No,Black or African American
+"Liebig, Ketsia",10017,1,1,0,MA,02110,10/26/81,F,Married,No,White
+"Linares, Marilyn ",10186,1,1,0,MA,01886,03/26/81,F,Married,No,White
+"Linden, Mathew",10137,1,1,1,MA,01770,03/19/79,M ,Married,No,White
+"Lindsay, Leonara ",10008,0,0,0,CT,06070,10/05/88,F,Single,Yes,Black or African American
+"Lundy, Susan",10096,0,4,0,MA,02122,12/26/76,F,Widowed,No,White
+"Lunquist, Lisa",10035,0,0,0,MA,02324,03/28/82,F,Single,No,Black or African American
+"Lydon, Allison",10057,1,1,0,MA,02122,10/22/75,F,Married,No,Black or African American
+"Lynch, Lindsay",10004,0,0,0,MA,01844,02/14/73,F,Single,Yes,Black or African American
+"MacLennan, Samuel",10191,0,4,1,MA,01938,11/09/72,M ,Widowed,No,White
+"Mahoney, Lauren  ",10219,0,0,0,MA,02189,07/07/86,F,Single,No,White
+"Manchester, Robyn",10077,1,1,0,MA,02324,08/25/76,F,Married,No,White
+"Mancuso, Karen",10073,1,1,0,MA,02176,12/10/86,F,Married,No,Two or more races
+"Mangal, Debbie",10279,1,1,0,MA,02451,11/07/74,F,Married,No,White
+"Martin, Sandra",10110,0,0,0,MA,02135,11/07/87,F,Single,No,Asian
+"Maurice, Shana",10053,1,1,0,MA,02330,11/22/77,F,Married,No,White
+"Carthy, B'rigit",10076,0,0,0,MA,02149,05/21/87,F,Single,No,Black or African American
+"Mckenna, Sandy",10145,1,1,0,MA,02184,01/07/87,F,Married,No,Black or African American
+"McKinzie, Jac",10202,1,1,1,TX,78789,07/01/84,M ,Married,No,Two or more races
+"Meads, Elizabeth",10128,0,0,0,MA,01760,05/30/68,F,Single,No,Black or African American
+"Medeiros, Jennifer",10068,0,0,0,MA,02346,09/22/76,F,Single,No,White
+"Miller, Brannon",10116,0,0,1,MA,02045,08/10/81,M ,Single,yes,Hispanic
+"Miller, Ned",10298,0,0,1,MA,02472,06/29/85,M ,Single,No,White
+"Monkfish, Erasumus",10213,1,1,1,MA,01450,08/17/92,M ,Married,No,White
+"Monroe, Peter",10288,1,1,1,MA,02134,10/05/86,M ,Married,Yes,Black or African American
+"Monterro, Luisa",10025,0,0,0,MA,02126,04/24/70,F,Single,No,Black or African American
+"Moran, Patrick",10223,0,0,1,MA,02127,12/03/76,M ,Single,No,Black or African American
+"Morway, Tanya",10151,1,1,0,MA,02048,04/04/79,F,Married,No,White
+"Motlagh,  Dawn",10254,0,2,0,MA,02453,07/07/84,F,Divorced,No,White
+"Moumanil, Maliki ",10120,0,3,1,MA,01460,12/01/74,M ,Separated,No,Black or African American
+"Myers, Michael",10216,0,0,1,MA,01550,04/18/80,M ,Single,No,Asian
+"Navathe, Kurt",10079,0,0,1,MA,02056,04/25/70,M ,Single,No,Asian
+"Ndzi, Colombui",10215,0,0,1,MA,02110,05/02/89,M ,Single,No,Black or African American
+"Ndzi, Horia",10185,1,1,1,MA,02421,03/28/83,M ,Married,No,White
+"Newman, Richard ",10063,1,1,1,MA,02136,04/08/77,M ,Married,No,White
+"Ngodup, Shari ",10037,0,3,0,MA,01810,06/03/67,F,Separated,No,Black or African American
+"Nguyen, Dheepa",10042,0,0,0,GA,30428,03/31/89,F,Single,No,Two or more races
+"Nguyen, Lei-Ming",10206,0,0,0,MA,02132,07/07/84,F,Single,No,White
+"Nowlan, Kristie",10104,0,0,0,MA,01040,11/23/85,F,Single,No,White
+"O'hare, Lynn",10303,0,0,0,MA,02152,09/30/80,F,Single,No,Two or more races
+"Oliver, Brooke ",10078,1,1,0,MA,02492,02/11/52,F,Married,No,Asian
+"Onque, Jasmine",10121,0,0,0,FL,33174,05/11/90,F,Single,Yes,White
+"Osturnka, Adeel",10021,1,1,1,MA,02478,12/11/76,M ,Married,No,White
+"Owad, Clinton",10281,0,0,1,MA,01760,11/24/79,M ,Single,No,Black or African American
+"Ozark, Travis",10041,0,0,1,NC,27229,05/19/82,M ,Single,No,White
+"Panjwani, Nina",10148,1,1,0,MA,02351,05/01/79,F,Married,No,White
+"Patronick, Lucas",10005,0,0,1,MA,01844,02/20/79,M ,Single,No,Black or African American
+"Pearson, Randall",10259,1,1,1,MA,02747,09/05/84,M ,Married,No,White
+"Smith, Martin",10286,0,0,1,MA,02458,03/17/88,M ,Single,No,Black or African American
+"Pelletier, Ermine",10297,1,1,0,MA,02472,07/18/89,F,Married,No,Asian
+"Perry, Shakira",10171,0,0,0,MA,02176,07/20/86,F,Single,No,White
+"Peters, Lauren",10032,1,1,0,MA,01886,08/17/86,F,Married,No,White
+"Peterson, Ebonee  ",10130,1,1,0,MA,02030,05/09/77,F,Married,No,White
+"Petingill, Shana  ",10217,1,1,0,MA,02050,03/10/79,F,Married,No,Asian
+"Petrowsky, Thelma",10016,1,1,0,MA,01886,09/16/84,F,Married,No,Black or African American
+"Pham, Hong",10050,1,1,1,MA,02451,03/06/88,M ,Married,No,Asian
+"Pitt, Brad ",10164,0,0,1,MA,02451,11/23/81,M ,Single,No,White
+"Potts, Xana",10124,1,1,0,KY,40220,08/29/88,F,Married,No,Black or African American
+"Power, Morissa",10187,0,2,0,MA,01742,10/15/84,F,Divorced,No,Asian
+"Punjabhi, Louis  ",10225,0,0,1,MA,02109,06/19/61,M ,Single,No,White
+"Purinton, Janine",10262,0,2,0,MA,02474,09/22/70,F,Divorced,No,White
+"Quinn, Sean",10131,1,1,1,MA,02045,11/06/84,M ,Married,No,Black or African American
+"Rachael, Maggie",10239,1,1,0,MA,02110,05/12/80,F,Married,No,Black or African American
+"Rarrick, Quinn",10152,0,2,1,MA,02478,12/31/84,M ,Divorced,No,White
+"Ren, Kylo",10140,1,1,1,ID,83706,10/12/54,M ,Married,No,White
+"Rhoads, Thomas",10058,0,2,1,MA,02176,07/22/82,M ,Divorced,Yes,White
+"Rivera, Haley  ",10011,1,1,0,MA,02171,01/12/73,F,Married,No,Asian
+"Roberson, May",10230,0,2,0,MA,01902,09/05/81,F,Divorced,No,Black or African American
+"Robertson, Peter",10224,1,1,1,MA,02138,07/03/72,M ,Married,No,White
+"Robinson, Alain  ",10047,1,1,1,MA,01420,01/07/74,M ,Married,No,Black or African American
+"Robinson, Cherly",10285,1,1,0,MA,01460,01/07/85,F,Married,No,White
+"Robinson, Elias",10020,0,4,1,MA,01730,01/28/85,M ,Widowed,No,White
+"Roby, Lori ",10162,1,1,0,MA,01886,10/11/81,F,Married,No,White
+"Roehrich, Bianca",10149,0,0,0,MA,02703,05/27/73,F,Single,Yes,White
+"Roper, Katie",10086,0,0,0,MA,02056,11/21/72,F,Single,No,Black or African American
+"Rose, Ashley  ",10054,0,3,0,MA,01886,12/05/74,F,Separated,No,White
+"Rossetti, Bruno",10065,0,0,1,MA,02155,03/18/87,M ,Single,No,White
+"Roup,Simon",10198,0,0,1,MA,02481,04/05/73,M ,Single,No,White
+"Ruiz, Ricardo",10222,0,2,1,MA,01915,01/04/64,M ,Divorced,No,Black or African American
+"Saada, Adell",10126,1,1,0,MA,02132,07/24/86,F,Married,No,White
+"Saar-Beckles, Melinda",10295,0,0,0,MA,01801,06/06/68,F,Single,No,Black or African American
+"Sadki, Nore  ",10260,0,0,1,MA,02148,12/21/74,M ,Single,No,White
+"Sahoo, Adil",10233,1,1,1,MA,02062,04/26/86,M ,Married,No,White
+"Salter, Jason",10229,0,2,1,MA,02452,12/17/87,M ,Divorced,No,Black or African American
+"Sander, Kamrin",10169,1,1,0,MA,02154,07/10/88,F,Married,No,Black or African American
+"Sewkumar, Nori",10071,0,0,0,MA,02191,03/10/75,F,Single,No,Asian
+"Shepard, Anita ",10179,1,1,0,MA,01773,04/14/81,F,Married,No,White
+"Shields, Seffi",10091,1,1,0,MA,02149,08/24/85,F,Married,No,White
+"Simard, Kramer",10178,1,1,1,MA,02110,02/08/70,M ,Married,Yes,White
+"Singh, Nan ",10039,0,0,0,MA,02330,05/19/88,F,Single,No,White
+"Sloan, Constance",10095,0,0,0,MA,01851,11/25/87,F,Single,No,White
+"Smith, Joe",10027,0,0,1,MA,02045,10/30/63,M ,Single,No,White
+"Smith, John",10291,0,2,1,MA,01886,08/16/84,M ,Divorced,No,Black or African American
+"Smith, Leigh Ann",10153,1,1,0,MA,01844,06/14/87,F,Married,No,Black or African American
+"Smith, Sade",10157,0,0,0,MA,02130,02/02/65,F,Single,No,White
+"Soto, Julia ",10119,1,1,0,MA,02360,03/12/73,F,Married,No,Black or African American
+"Soze, Keyser",10180,1,1,1,MA,01545,02/09/83,M ,Married,No,Asian
+"Sparks, Taylor  ",10302,1,1,0,MA,02093,07/20/68,F,Married,No,White
+"Spirea, Kelley",10090,1,1,0,MA,02451,09/30/75,F,Married,No,White
+"Squatrito, Kristen",10030,0,2,0,MA,02359,03/26/73,F,Divorced,No,White
+"Stanford,Barbara  M",10278,0,2,0,MA,02050,08/25/82,F,Divorced,No,Two or more races
+"Stansfield, Norman",10307,1,1,1,NV,89139,05/09/74,M ,Married,No,White
+"Steans, Tyrone  ",10147,0,0,1,MA,02703,09/01/86,M ,Single,No,White
+"Stoica, Rick",10266,1,1,1,MA,02301,03/14/85,M ,Married,No,Asian
+"Strong, Caitrin",10241,1,1,0,MT,59102,05/12/89,F,Married,No,Black or African American
+"Sullivan, Kissy ",10158,1,1,0,MA,01776,03/28/78,F,Married,No,Black or African American
+"Sullivan, Timothy",10117,1,1,1,MA,02747,10/07/82,M ,Married,Yes,White
+"Sutwell, Barbara",10209,0,0,0,MA,02718,08/15/68,F,Single,No,Asian
+"Szabo, Andrew",10024,0,0,1,MA,02140,05/06/83,M ,Single,No,White
+"Tannen, Biff",10173,1,1,1,MA,02134,10/24/87,M ,Married,No,White
+"Tavares, Desiree  ",10221,1,1,0,MA,01801,04/03/75,F,Married,No,Black or African American
+"Tejeda, Lenora ",10146,1,1,0,MA,02129,05/24/53,F,Married,No,White
+"Terry, Sharlene ",10161,0,0,0,OR,97756,05/07/65,F,Single,No,Black or African American
+"Theamstern, Sophia",10141,0,0,0,MA,02066,05/09/65,F,Single,No,White
+"Thibaud, Kenneth",10268,0,4,1,MA,02472,09/16/75,M ,Widowed,No,White
+"Tippett, Jeanette",10123,0,2,0,MA,02093,06/05/67,F,Divorced,No,Black or African American
+"Torrence, Jack",10013,0,3,1,ND,58782,01/15/68,M ,Separated,No,White
+"Trang, Mei",10287,0,0,0,MA,02021,05/16/83,F,Single,No,White
+"Tredinnick, Neville ",10044,1,1,1,MA,01420,05/05/88,M ,Married,No,White
+"True, Edward",10102,0,0,1,MA,02451,06/14/83,M ,Single,No,Black or African American
+"Trzeciak, Cybil",10270,0,0,0,MA,01778,03/15/85,F,Single,No,White
+"Turpin, Jumil",10045,1,1,1,MA,02343,03/31/69,M ,Married,No,White
+"Valentin,Jackie",10205,1,1,0,AZ,85006,05/23/91,F,Married,No,Two or more races
+"Veera, Abdellah ",10014,0,2,1,MA,02171,01/31/87,M ,Divorced,No,White
+"Vega, Vincent",10144,0,2,1,MA,02169,10/10/68,M ,Divorced,No,White
+"Villanueva, Noah",10253,0,0,1,ME,04063,07/11/89,M ,Single,No,Asian
+"Voldemort, Lord",10118,1,1,1,MA,01960,08/07/86,M ,Married,No,Black or African American
+"Volk, Colleen",10022,1,1,0,MA,02747,06/03/86,F,Married,No,White
+"Von Massenbach, Anna",10183,0,0,0,MA,02124,04/06/85,F,Single,No,White
+"Walker, Roger",10190,0,0,1,MA,02459,02/10/76,M ,Single,No,Black or African American
+"Wallace, Courtney  E",10274,1,1,0,MA,02478,11/14/55,F,Married,No,Black or African American
+"Wallace, Theresa",10293,0,0,0,MA,01887,08/02/80,F,Single,No,White
+"Wang, Charlie",10172,0,0,1,MA,01887,07/08/81,M ,Single,No,Asian
+"Warfield, Sarah",10127,0,4,0,MA,02453,05/02/78,F,Widowed,No,Asian
+"Whittier, Scott",10072,0,0,1,MA,02030,05/24/87,M ,Single,Yes,White
+"Wilber, Barry",10048,1,1,1,MA,02324,09/09/65,M ,Married,No,White
+"Wilkes, Annie",10204,0,2,0,MA,01876,07/30/83,F,Divorced,No,White
+"Williams, Jacquelyn  ",10264,0,0,0,MA,02109,10/02/69,F,Single,Yes,Black or African American
+"Winthrop, Jordan  ",10033,0,0,1,MA,02045,11/07/58,M ,Single,No,White
+"Wolk, Hang  T",10174,0,0,0,MA,02302,04/20/85,F,Single,No,White
+"Woodson, Jason",10135,0,0,1,MA,01810,05/11/85,M ,Single,No,White
+"Ybarra, Catherine ",10301,0,0,0,MA,02458,05/04/82,F,Single,No,Asian
+"Zamora, Jennifer",10010,0,0,0,MA,02067,08/30/79,F,Single,No,White
+"Zhou, Julia",10043,0,0,0,MA,02148,02/24/79,F,Single,No,White
+"Zima, Colleen",10271,0,4,0,MA,01730,08/17/78,F,Widowed,No,Asian
