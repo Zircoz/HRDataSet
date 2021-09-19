@@ -1,6 +1,6 @@
 # HRDataSet
 
-This repo contains HRdataset-v14 obtained from Drs. Rich Huebner and Carla Patalano [Human Resources Dataset](https://www.kaggle.com/rhuebner/human-resources-data-set). It is small enough to easily track changes and still large enough to overcome the cons of creating tiny tables for learning. Since the original dataset was in one csv, I have divided it into 3 files which can be combined and/or joined to learn various tools and languages for Data Ops/Analysis.
+This repo contains HRdataset-v14 obtained from Drs. Rich Huebner and Carla Patalano's [Human Resources Dataset](https://www.kaggle.com/rhuebner/human-resources-data-set). It is small enough to easily track changes and still large enough to overcome the cons of creating tiny tables for learning. Since the original dataset was in one csv, I have divided it into 3 files which can be combined and/or joined to learn various tools and languages for Data Ops/Analysis.
 
 The HRdataset.dbc file is a databricks archive of the notebook in which csv were modified. It is also published via DataBricks [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8551209553411057/2027291136960588/3562510147912509/latest.html), but it might disappear in some months of writing this readme.
 
